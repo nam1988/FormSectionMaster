@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-14 21:56:56</sys_created_on>
-        <sys_id>adc28d3e788d0010964f2ce3691d2295</sys_id>
+        <sys_id>66a5169c78d9c010964f2ce3691d2217</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CMDB Ext</sys_name>
         <sys_package display_value="cmdb_ext" source="x_nutr_cmdb_ext">ad328dba788d0010964f2ce3691d223a</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="cmdb_ext">ad328dba788d0010964f2ce3691d223a</sys_scope>
         <sys_update_name>sys_dictionary_cmdb_ci_x_nutr_cmdb_ext_cmdb_ext</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-14 21:56:56</sys_updated_on>
+        <sys_updated_on>2019-11-19 19:49:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
