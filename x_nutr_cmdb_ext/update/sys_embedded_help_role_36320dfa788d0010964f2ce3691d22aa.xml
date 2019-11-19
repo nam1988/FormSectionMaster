@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_nutr_cmdb_ext.user" name="x_nutr_cmdb_ext.user">3e320dfa788d0010964f2ce3691d22a5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 21:53:55</sys_created_on>
+        <sys_id>36320dfa788d0010964f2ce3691d22aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e320dfa788d0010964f2ce3691d22a5</sys_name>
+        <sys_package display_value="cmdb_ext" source="x_nutr_cmdb_ext">ad328dba788d0010964f2ce3691d223a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cmdb_ext">ad328dba788d0010964f2ce3691d223a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_36320dfa788d0010964f2ce3691d22aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 21:53:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
